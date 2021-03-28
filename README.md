@@ -7,17 +7,32 @@ Pitt Campus Corner is a crowd-sourced directory for University-provided housing 
 ## Usage
 Select a building to view information, photos of rooms, and resident reviews.
 
-## Contributing
-See [CONTRIBUTING.md](https://github.com/maxvp/pitt-campus-corner/blob/main/CONTRIBUTING.md) for our code of conduct.
+## FAQ
+**Q:** Why Pitt Campus Corner?
 
-Feel free to fork for your own school.
+**A:** Pitt's online housing resources lack information. Pitt Campus Corner seeks to deliver this information, supplemented by students' perspectives.
+##
+
+**Q:** What other features are planned?
+
+**A:** We plan to add user-generated reviews and an interactive campus map.
+##
+
+**Q:** How can I contribute to the project?
+
+**A:** You can learn how to contribute in our [Contributing](https://github.com/maxvp/pitt-campus-corner#contributing) section.
+
+## Contributing
+You may contribute by adding information and features, fixing bugs and typos, and revising documentation. See [CONTRIBUTING.md](https://github.com/maxvp/pitt-campus-corner/blob/main/CONTRIBUTING.md) for more information.
+
+Feel free to fork for your own institution.
 
 ## Authors
-- **Liam Woodward** - _creator, developer_
-- **Trevor Petersen** - _developer_
-- **Maria Anto** - _UI/UX designer, researcher, writer_
-- **Brandon Cerminara** - _UI/UX designer, researcher_
-- **Maximillian Phillips** - _technical writer, designer_
+- [**Liam Woodward**](MAILTO:low21@pitt.edu) - _creator, developer_
+- [**Trevor Petersen**](MAILTO:ttp10@pitt.edu) - _developer_
+- [**Maria Anto**](MAILTO:mea129@pitt.edu) - _UI/UX designer, researcher, writer_
+- [**Brandon Cerminara**](bjc94@pitt.edu) - _UI/UX designer, researcher_
+- [**Maximillian Phillips**](MAILTO:max.p@pitt.edu) - _technical writer, designer_
 
 ## License
 This project is licensed under the **MIT** License - see [LICENSE](https://github.com/maxvp/pitt-campus-corner/blob/main/LICENSE) for more details.
