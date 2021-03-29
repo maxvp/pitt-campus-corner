@@ -10,7 +10,7 @@ Select a building to view information, photos of rooms, and resident reviews.
 ## FAQ
 **Q:** Why Pitt Campus Corner?
 
-**A:** Pitt's online housing resources lack information. Pitt Campus Corner seeks to deliver this information, supplemented by students' perspectives.
+**A:** Pitt's online housing resources lack information that could shed light on valuable experiences regarding university housing. Pitt Campus Corner seeks to deliver this information, supplemented by students' perspectives.
 ##
 
 **Q:** What other features are planned?
@@ -38,9 +38,9 @@ Feel free to fork for your own institution.
 This project is licensed under the **MIT** License - see [LICENSE](https://github.com/maxvp/pitt-campus-corner/blob/main/LICENSE) for more details.
 
 ## Fair Use
-This site is for educational purposes only. Pitt Campus Corner is protected under section 107 of the Copyright Act of 1976.
+This site is for educational and informational purposes only. Pitt Campus Corner is protected under section 107 of the Copyright Act of 1976.
 
-Pitt Campus Corner is not affiliated with the University of Pittsburgh. Any resemblance to official Pitt works is pure coincidence.
+Pitt Campus Corner is not affiliated with the University of Pittsburgh. Any resemblance to official Pitt works is unintentional and may be coincidental.
 
 ## Disclaimer
 Any views, thoughts, and opinions expressed in third-party reviews are not necessarily held by the authors of Pitt Campus Corner. The authors of Pitt Campus Corner are not responsible for any damages caused by this site.
