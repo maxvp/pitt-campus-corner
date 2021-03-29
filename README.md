@@ -15,7 +15,7 @@ Select a building to view information, photos of rooms, and resident reviews.
 
 **Q:** What other features are planned?
 
-**A:** We plan to add user-generated reviews and an interactive campus map.
+**A:** We plan to add user-generated reviews, an interactive campus map, an answers to commonly asked housing questions.
 ##
 
 **Q:** How can I contribute to the project?
