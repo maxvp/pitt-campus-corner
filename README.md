@@ -10,7 +10,7 @@ Select a building to view information, photos of rooms, and resident reviews.
 ## FAQ
 **Q:** Why Pitt Campus Corner?
 
-**A:** Pitt's online housing resources lack information that could shed light on valuable experiences regarding university housing. Pitt Campus Corner seeks to deliver this information, supplemented by students' perspectives.
+**A:** Pitt's online housing resources lack valuable information and first-hand insights into resident experience. Pitt Campus Corner seeks to deliver this information, supplemented by students' perspectives.
 ##
 
 **Q:** What other features are planned?
