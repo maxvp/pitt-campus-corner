@@ -1,6 +1,6 @@
 # Pitt Campus Corner
 <!--![Pitt Campus Corner logo](logo.png)-->
-<img src="logo.png" alt="PCC logo" width="420"/>
+[<img src="logo.png" alt="PCC logo" width="420"/>](https://maxvp.github.io/pitt-campus-corner/)
 
 Pitt Campus Corner is a crowd-sourced directory for University-provided housing accommodations at the University of Pittsburgh. It is a group project for ENGCMP0600 in Spring 2021.
 
