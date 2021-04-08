@@ -28,11 +28,13 @@ You may contribute by adding information and features, fixing bugs and typos, an
 Feel free to fork for your own institution.
 
 ## Authors
-- [**Liam Woodward**](MAILTO:low21@pitt.edu) - _creator, developer_
-- [**Trevor Petersen**](MAILTO:ttp10@pitt.edu) - _developer_
-- [**Maria Anto**](MAILTO:mea129@pitt.edu) - _UI/UX designer, researcher, writer_
-- [**Brandon Cerminara**](bjc94@pitt.edu) - _UI/UX designer, researcher_
-- [**Maximillian Phillips**](MAILTO:max.p@pitt.edu) - _technical writer, designer_
+| Name | Role | Email |
+| ---- | ---- | ----- |
+| Liam Woodward | creator, developer | low21@pitt.edu |
+| Trevor Petersen | developer | ttp10@pitt.edu |
+| Maria Anto | UI/UX designer, researcher, writer | mea129@pitt.edu |
+| Brandon Cerminara | UI/UX designer, researcher | bjc94@pitt.edu |
+| Maximillian Phillips | technical writer, designer | max.p@pitt.edu |
 
 ## License
 This project is licensed under the **MIT** License - see [LICENSE](https://github.com/maxvp/pitt-campus-corner/blob/main/LICENSE) for more details.
