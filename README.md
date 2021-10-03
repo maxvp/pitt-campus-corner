@@ -34,7 +34,7 @@ Feel free to fork for your own institution.
 | Trevor Petersen | developer | ttp10@pitt.edu |
 | Maria Anto | UI/UX designer, researcher, writer | mea129@pitt.edu |
 | Brandon Cerminara | UI/UX designer, researcher | bjc94@pitt.edu |
-| Maximillian Phillips | technical writer, designer | max.p@pitt.edu |
+| Maximillian Phillips | designer, documentation | max.p@pitt.edu |
 
 ## License
 This project is licensed under the **MIT** License - see [LICENSE](https://github.com/maxvp/pitt-campus-corner/blob/main/LICENSE) for more details.
